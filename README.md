@@ -18,6 +18,9 @@
 - [Slid in on Scroll](./13%20-%20Slide%20in%20on%20Scroll/)
 - [JavaScript References VS Copying](./14%20-%20JavaScript%20References%20VS%20Copying/)
 - [Local Storage](./15%20-%20LocalStorage/)
+- [Mouse Move Shadow](./16%20-%20Mouse%20Move%20Shadow/)
+- [Sort Without Articles](./17%20-%20Sort%20Without%20Articles/)
+- [Adding Up Times with Reduce](./18%20-%20Adding%20Up%20Times%20with%20Reduce/)
 
 ## References
 
