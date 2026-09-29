@@ -21,6 +21,8 @@
 - [Mouse Move Shadow](./16/)
 - [Sort Without Articles](./17/)
 - [Adding Up Times with Reduce](./18/)
+- [Unreal Webcam Fun](./19/)
+- [Native Speech Recognition](./20/)
 
 ## References
 
