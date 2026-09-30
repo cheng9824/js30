@@ -23,6 +23,7 @@
 - [Adding Up Times with Reduce](./18/)
 - [Unreal Webcam Fun](./19/)
 - [Native Speech Recognition](./20/)
+- [Geolocation based Speedometer and Compass](./21/)
 
 ## References
 
